@@ -1,9 +1,6 @@
 # EBAC-Analise-Dados-Sinasc
 mod06 Tarefa 2
 
-Aqui está uma versão do README em formato de texto simples, pronta para copiar e colar:
-
-```
 # 👶📈 Análise de Dados SINASC (Módulo 06 - Tarefa 2)
 
 Este repositório contém os scripts Python desenvolvidos para o Módulo 06 - Tarefa 2, focados na análise exploratória de dados do Sistema de Informações sobre Nascidos Vivos (SINASC) do DataSUS.
@@ -46,4 +43,3 @@ Neste projeto, realizamos as seguintes visualizações de dados:
 ## 🤝 Contribuições
 
 Contribuições são sempre bem-vindas! Se você tiver alguma sugestão de melhoria ou encontrar algum bug, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
